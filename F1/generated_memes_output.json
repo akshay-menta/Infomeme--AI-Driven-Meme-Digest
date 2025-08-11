@@ -1,0 +1,25 @@
+{
+  "news_data": [
+    {
+      "news": "New York's air quality alertSkip to contentWatch LiveBritish Broad hArtificial IntelligenceAI v the MindCultureFilm A health advisory has been issued for New York City and its surrounding areas because of wildfires Canada's air quality index is predicted to be above 100 in parts of the United States on US authorities have issued air quality alerts because of smoke from the Canadian wildfires in the More than a million hectares of land have been burned in Canada in the past year Canada is warming up at twice the global average rate as wildfires continue to burn, scientists US-EU tariff deal shows how serious President Trump is about renegotiating a deal with The US and EU have agreed a trade deal with the European Union over a 15- A man has been arrested in connection with a wildfire in Greece, police have said. The BBC is not responsible for the content of external sites, it is not a website.",
+      "sentiment": "annoyance",
+      "template": "Woman Yelling Cat",
+      "parts": 2,
+      "captions": [
+        "Can't breathe. Again.",
+        "Thanks, Canada."
+      ],
+      "meme_results": [
+        {
+          "template": "Woman Yelling Cat",
+          "url": "https://i.imgflip.com/a1gwmb.jpg",
+          "page_url": "https://imgflip.com/i/a1gwmb",
+          "captions": [
+            "Can't breathe. Again.",
+            "Thanks, Canada."
+          ]
+        }
+      ]
+    }
+  ]
+}

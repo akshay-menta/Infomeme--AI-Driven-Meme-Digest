@@ -1,0 +1,10 @@
+transformers
+torch
+accelerate
+huggingface_hub
+evaluate
+rouge_score
+datasets==3.6.0
+Levenshtein
+sentencepiece
+streamlit
