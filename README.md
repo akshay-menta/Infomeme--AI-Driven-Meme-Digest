@@ -1,4 +1,4 @@
-# InfoMeme: AI-Powered News to Meme Generator 🎯
+# InfoMeme: AI-Powered News to Meme Generator 
 
 A sophisticated AI system that transforms news articles into contextually relevant and engaging memes by leveraging state-of-the-art language models, emotion analysis, and fake news detection.
 
