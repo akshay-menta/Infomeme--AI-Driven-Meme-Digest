@@ -1,6 +1,6 @@
 # InfoMeme: AI-Powered News to Meme Generator 
 
-A sophisticated AI system that transforms news articles into contextually relevant and engaging memes by leveraging state-of-the-art language models, emotion analysis, and fake news detection.
+A sophisticated AI system that transforms news articles into contextually relevant and engaging memes by leveraging state-of-the-art language models, emotion analysis and fake news detection.
 
 ## 🌟 Features
 
@@ -26,7 +26,7 @@ A sophisticated AI system that transforms news articles into contextually releva
 - `EmotionAnalyzer.py`: Multi-label emotion classification
 - `Memegenerator.py`: Meme creation using ImgFlip API
 - `NewsAPIClient.py`: News article fetching and processing
-- `Promptgemini.py`: Gemini Pro integration for caption generation
+- `Promptgemini.py`: Gemini flash-1.5 API integration for caption generation
 - `URLContentSummarizer.py`: Article content extraction and summarization
 
 ### Model Training (F2/)
