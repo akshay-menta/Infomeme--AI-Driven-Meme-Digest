@@ -2,6 +2,12 @@
 
 A sophisticated AI system that transforms news articles into contextually relevant and engaging memes by leveraging state-of-the-art language models, emotion analysis and fake news detection.
 
+
+
+https://github.com/user-attachments/assets/6620ed2c-467c-4d26-a034-e88c9e619620
+
+
+
 ## 🌟 Features
 
 - **News Article Processing**: Fetches and processes news articles from various categories using NewsAPI
